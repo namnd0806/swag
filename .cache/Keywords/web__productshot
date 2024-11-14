@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "5AF65B3F335648F35225333907529236",
+  "keywordClasses": [
+    {
+      "name": "web.productshot",
+      "keywordMethods": [
+        {
+          "name": "ShortLowToHigh",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ShortHighToLow",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

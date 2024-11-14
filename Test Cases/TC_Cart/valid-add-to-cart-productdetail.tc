@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>valid-add-to-cart-productdetail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f520123d-5a97-4f09-9c70-084cf29bac26</testCaseGuid>
+</TestCaseEntity>

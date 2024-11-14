@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>product_short_lowtohigh</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de002efb-2352-4cf6-9a23-a4f75dc30bd5</testCaseGuid>
+</TestCaseEntity>

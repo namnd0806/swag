@@ -1,0 +1,23 @@
+{
+  "keywordFileContentHash": "5EFD6CA311B0708753B266B5C9C7E675",
+  "keywordClasses": [
+    {
+      "name": "web.check_icon_cart",
+      "keywordMethods": [
+        {
+          "name": "CheckIconCart",
+          "parameters": []
+        },
+        {
+          "name": "RedirectCheckOut",
+          "parameters": []
+        },
+        {
+          "name": "ProductDetailAddToCart",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
